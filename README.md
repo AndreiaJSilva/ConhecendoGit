@@ -1,3 +1,3 @@
 Meu primeiro sistema no git
 
-Alteracao para ver o commit
+Primeiras análises exploratórias sobre criminologia usando dados do Kaggle. 
